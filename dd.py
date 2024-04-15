@@ -1,4 +1,4 @@
-a=100
-b=120
+a=10
+b=12
 sum=a+b
 print (sum)
